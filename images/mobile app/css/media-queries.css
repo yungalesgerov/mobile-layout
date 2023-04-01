@@ -1,0 +1,23 @@
+@media screen and (max-width:376px) {
+    
+    /* .mobile-container {
+        min-width: 375px;
+    } */
+    .mobile-header-container {
+        min-width: 340px;
+    }
+    .hero-container {
+        min-width: 340px;
+    }
+    .completed-container {
+        min-width: 340px;
+    }
+    .types-container {
+        min-width: 340px;
+    }
+    .another-container {
+        min-width: 340px;
+    }
+    
+    
+}
